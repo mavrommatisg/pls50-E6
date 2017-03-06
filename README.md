@@ -1,2 +1,3 @@
 # pls50-E6
-This is the first repo ever.
+This is my first repo ever.
+Not really..
